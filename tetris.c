@@ -8,16 +8,16 @@
 int main() {
 
     // 🧩 Nível Novato: Fila de Peças Futuras
-    //
-    // - Crie uma struct Peca com os campos: tipo (char) e id (int).
-    // - Implemente uma fila circular com capacidade para 5 peças.
-    // - Crie funções como inicializarFila(), enqueue(), dequeue(), filaCheia(), filaVazia().
-    // - Cada peça deve ser gerada automaticamente com um tipo aleatório e id sequencial.
-    // - Exiba a fila após cada ação com uma função mostrarFila().
-    // - Use um menu com opções como:
-    //      1 - Jogar peça (remover da frente)
-    //      0 - Sair
-    // - A cada remoção, insira uma nova peça ao final da fila.
+        //
+            // - Crie uma struct Peca com os campos: tipo (char) e id (int).
+                // - Implemente uma fila circular com capacidade para 5 peças.
+                    // - Crie funções como inicializarFila(), enqueue(), dequeue(), filaCheia(), filaVazia().
+                        // - Cada peça deve ser gerada automaticamente com um tipo aleatório e id sequencial.
+                            // - Exiba a fila após cada ação com uma função mostrarFila().
+                                // - Use um menu com opções como:
+                                    //      1 - Jogar peça (remover da frente)
+                                        //      0 - Sair
+                                            // - A cada remoção, insira uma nova peça ao final da fila.
 
 
 
